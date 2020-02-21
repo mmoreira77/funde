@@ -1,8 +1,8 @@
 /* Custom Properties */
 
 :root {
-    --main-color: #229954;
-    --main-modal-color: rgb( 34, 153, 84);
+    --main-color: #52be80;
+    --main-modal-color: rgb(82, 190, 128);
     --second-color: #f9efed;
     --second-modal-color: rgb(249, 239, 237);
 }
@@ -95,14 +95,15 @@ p {
 
 .primary {
     color: #fff;
-    background-color: #0069d9;
-    border-color: #0062cc;
+    background-color: #046836;
+    border-color: #046836;
     display: block;
-    width: 100%;
+    width: 80%;
     padding: .5rem 1rem;
     font-size: 1.25rem;
     line-height: 1.5;
     border-radius: .3rem;
+    margin: auto;
 }
 
 a {
