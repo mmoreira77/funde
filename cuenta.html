@@ -27,30 +27,45 @@
 <body>
     <header class="Header">
         <h1>FUNDECREDITO</h1>
-        <!--  <h2>Cooperativa de Ahorro y Crédito</h2>
-        <br> -->
         <a class="navbar-brand" href="index.html"><img src="./img/logoFunde.png" alt=""></a>
     </header>
-    <!-- <button class="primary">¿Que es un cooperativa?</button>
-    <button class="primary">Membresia</button>
-    <button class="primary">Que es FUNDECREDITO S.C de R.L de C.V</button>
-    <button class="primary">Proceso de afiliación</button> -->
 
     <hr>
 
     <div class="container">
-        <form class="needs-validation" novalidate action="./cuenta.html">
-            <div class="form-group">
-                <label for="exampleInputEmail1">Usuario</label>
-                <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Usuario">
-            </div>
-            <div class="form-group">
-                <label for="exampleInputPassword1">Contraseña</label>
-                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Contraseña">
-            </div>
-            <button type="submit" class="btn btn-success btn-block"> Entrar</button>
-            <br>
-        </form>
+        <span class="text-warning">Cliente: </span>
+        <p class="text-info"><b>Mario Armando Flores</b></p>
+        <div class="form-group">
+            <label class="text-primary" for="">Cuenta a cargar: </label>
+            <select class="form-control" id="exampleFormControlSelect1">
+                <option>Cuenta 1</option>
+                <option>Cuenta 2</option>
+                <option>Cuenta 3</option>
+                <option>Cuenta 4</option>
+                <option>Cuenta 5</option>
+              </select>
+        </div>
+
+        <div class="form-group">
+            <label class="text-info" for="">Cuenta a abonar: </label>
+            <select class="form-control" id="exampleFormControlSelect1">
+                <option>Préstamo 1</option>
+                <option>Préstamo 2</option>
+                <option>Crédito 1</option>
+                <option>Crédito 2</option>                
+              </select>
+        </div>
+
+        <div class="form-group">
+            <label class="text-success" for="">Monto: </label>
+            <input class="form-control" type="text" placeholder="Monto">
+        </div>
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-success btn-block"> Aplicar</button>
+        </div>
+        <br>
+
     </div>
     <script src="./script.js"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
