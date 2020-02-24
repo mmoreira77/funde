@@ -10,27 +10,27 @@
     "scope": "./",
     "lang": "es-MX",
     "icons": [{
-            "src": "./img/logoCorto2.jpg",
+            "src": "./img/logoFunde.png",
             "sizes": "126x102",
             "type": "image/png"
         },
         {
-            "src": "./img/logoCorto2.jpg",
+            "src": "./img/logoFunde.png",
             "sizes": "126x102",
             "type": "image/png"
         },
         {
-            "src": "./img/logoCorto2.jpg",
+            "src": "./img/logoFunde.png",
             "sizes": "126x102",
             "type": "image/png"
         },
         {
-            "src": "./img/logoCorto2.jpg",
+            "src": "./img/logoFunde.png",
             "sizes": "126x102",
             "type": "image/png"
         },
         {
-            "src": "./img/logoCorto2.jpg",
+            "src": "./img/logoFunde.png",
             "sizes": "126x102",
             "type": "image/png"
         }
