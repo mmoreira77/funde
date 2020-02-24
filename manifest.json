@@ -11,7 +11,7 @@
     "lang": "es-MX",
     "icons": [{
             "src": "./img/funde.png",
-            "sizes": "360x102",
+            "sizes": "352x180",
             "type": "image/png"
         }]
 }
