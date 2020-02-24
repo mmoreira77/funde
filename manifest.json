@@ -10,8 +10,8 @@
     "scope": "./",
     "lang": "es-MX",
     "icons": [{
-            "src": "./img/logoCorto2.jpg",
-            "sizes": "358x103",
+            "src": "./img/icon_256.png",
+            "sizes": "256x256",
             "type": "image/png"
         }]
 }
