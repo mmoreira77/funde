@@ -9,30 +9,9 @@
     "start_url": "./?utm_source=web_app_manifest",
     "scope": "./",
     "lang": "es-MX",
-    "icons": [{
-            "src": "./img/logoFunde.png",
-            "sizes": "126x102",
-            "type": "image/png"
-        },
-        {
-            "src": "./img/logoFunde.png",
-            "sizes": "126x102",
-            "type": "image/png"
-        },
-        {
-            "src": "./img/logoFunde.png",
-            "sizes": "126x102",
-            "type": "image/png"
-        },
-        {
-            "src": "./img/logoFunde.png",
-            "sizes": "126x102",
-            "type": "image/png"
-        },
-        {
-            "src": "./img/logoFunde.png",
-            "sizes": "126x102",
+    "icons": {
+            "src": "./img/logoCorto2.jpg",
+            "sizes": "358x103",
             "type": "image/png"
         }
-    ]
 }
