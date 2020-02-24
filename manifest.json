@@ -10,8 +10,8 @@
     "scope": "./",
     "lang": "es-MX",
     "icons": [{
-            "src": "./img/icon_256.png",
-            "sizes": "256x256",
+            "src": "./img/funde.png",
+            "sizes": "360x102",
             "type": "image/png"
         }]
 }
